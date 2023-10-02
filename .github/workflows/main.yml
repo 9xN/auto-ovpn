@@ -36,8 +36,8 @@ jobs:
     - run: npm start
     - name: Commit and push if it changed
       run: |-
-        git config user.name "fdciabdul"
-        git config user.email "abdulmuttaqin456@gmail.com"
+        git config user.name "44"
+        git config user.email "94141577+9xN@users.noreply.github.com"
         git add -A
         timestamp=$(date '+%F %H:%M:%S %Z')
         git commit -m "Update Data ${timestamp}" || exit 0
