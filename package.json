@@ -1,0 +1,14 @@
+{
+  "name": "auto-ovpn",
+  "version": "1.0.0",
+  "description": "This is an auto-generated list of Open VPN config files.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "github/9xN",
+  "license": "AGPL-3.0"
+}
