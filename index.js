@@ -17,10 +17,10 @@ const generateReadme = (vpnList) => {
     content += `Below is the list of available VPN servers:\n\n`;
     content += `(You may connect to any of these VPN servers with: Username: 'vpn', Password: 'vpn'.)\n`;
     content += "| Hostname | IP Address | Ping | Speed | Country | OpenVPN Config | Score |\n";
-    content += "|----------|------------|-------|-------|---------|----------------| ----- |\n";
+    content += "|----------|------------|------|-------|---------|----------------| ----- |\n";
     vpnList.servers.forEach((server, index) => {
         let speedInMbps = (server.speed / 10000000).toFixed(2); // Convert to Mbps and round to two decimal places
-        content += `| ${server.hostname} | ${server.ip} | ${server.ping} | ${speedInMbps} Mbps | ${server.countrylong} | [Download 📥](./configs/server_${index}_${server.countryshort}.ovpn) | ${(server.score / 100000).toFixed(1)} |\n`;
+        content += `| ${server.hostname} | ${server.ip} | ${server.ping} | ${speedInMbps}Mbps | ${server.countrylong} | [Download 📥](./configs/server_${index}_${server.countryshort}.ovpn) | ${(server.score / 100000).toFixed(1)} |\n`;
     });
     fs.writeFileSync('README.md', content);
 }
