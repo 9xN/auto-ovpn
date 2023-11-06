@@ -41,15 +41,18 @@ getVpnList()
         countries = vpnList.countries;
         lastUpdated = Date.now();
 
-        fs.writeFileSync("json/data.json",JSON.stringify([vpnList,lastUpdated], null, 4),"utf-8")
+        fs.writeFileSync("json/data.json", JSON.stringify([vpnList, lastUpdated], null, 4), "utf-8");
+
+        // Sort the servers by the 'score' rating in descending order
+        servers.sort((a, b) => b.score - a.score);
+
         // Save the configs and update the readme
-        vpnList.servers.forEach((server, index) => {
+        servers.forEach((server, index) => {
             const configData = server.openvpn_configdata_base64;
             saveBase64ToFile(configData, `./configs/server_${index}_${server.countryshort}.ovpn`);
-
         });
 
-        generateReadme(vpnList);
+        generateReadme({ servers, countries });
     })
     .catch(err => {
         console.log(err);
