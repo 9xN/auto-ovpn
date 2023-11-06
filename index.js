@@ -15,7 +15,7 @@ const generateReadme = (vpnList) => {
     
     content += `## Available Servers\n\n`;
     content += `Below is the list of available VPN servers:\n\n`;
-    content += `(You may connect to any of these VPN servers with: Username: 'vpn', Password: 'vpn'.\n`;
+    content += `(You may connect to any of these VPN servers with: Username: 'vpn', Password: 'vpn'.)\n`;
     content += "| Hostname | IP Address | Ping | Speed | Country | OpenVPN Config | Score |\n";
     content += "|----------|------------|-------|-------|---------|----------------| ----- |\n";
     vpnList.servers.forEach((server, index) => {
