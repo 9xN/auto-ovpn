@@ -4,7 +4,7 @@ This is an auto-generated list of Open VPN config files.
 
 ## Last Updated
 
-This list was last updated on: Sat, 18 Nov 2023 23:33:33 GMT.
+This list was last updated on: Sat, 18 Nov 2023 23:44:46 GMT.
 
 ## Available Servers
 
@@ -101,13 +101,13 @@ Below is the list of available VPN servers:
 | vpn704294482 | 146.70.205.6 | 1 | 97.02Mbps | Romania | [Download 📥](./configs/server_85_RO.ovpn) | 3.9 |
 | vpn348476909 | 176.112.152.56 | 6 | 8.49Mbps | Estonia | [Download 📥](./configs/server_86_EE.ovpn) | 3.9 |
 | vpn551989303 | 146.70.205.2 | 1 | 97.66Mbps | Romania | [Download 📥](./configs/server_87_RO.ovpn) | 3.9 |
-| v-dot-pn-dus1 | 62.133.35.246 | 3 | 3.26Mbps | Germany | [Download 📥](./configs/server_88_DE.ovpn) | 3.9 |
-| vpn541998861 | 95.208.248.73 | 20 | 1.19Mbps | Germany | [Download 📥](./configs/server_89_DE.ovpn) | 3.8 |
-| vpn857454189 | 153.208.31.109 | 18 | 9.26Mbps | Japan | [Download 📥](./configs/server_90_JP.ovpn) | 3.8 |
-| v-dot-pn-hkg1 | 45.125.0.246 | 1 | 88.44Mbps | Hong Kong | [Download 📥](./configs/server_91_HK.ovpn) | 3.8 |
-| v-dot-pn-ams1 | 78.142.193.246 | 1 | 25.28Mbps | Germany | [Download 📥](./configs/server_92_DE.ovpn) | 3.8 |
+| vpn541998861 | 95.208.248.73 | 20 | 1.19Mbps | Germany | [Download 📥](./configs/server_88_DE.ovpn) | 3.8 |
+| vpn857454189 | 153.208.31.109 | 18 | 9.26Mbps | Japan | [Download 📥](./configs/server_89_JP.ovpn) | 3.8 |
+| v-dot-pn-hkg1 | 45.125.0.246 | 1 | 88.44Mbps | Hong Kong | [Download 📥](./configs/server_90_HK.ovpn) | 3.8 |
+| v-dot-pn-ams1 | 78.142.193.246 | 1 | 25.28Mbps | Germany | [Download 📥](./configs/server_91_DE.ovpn) | 3.8 |
+| v-dot-pn-tll1 | 91.193.75.5 | 25 | 20.57Mbps | Germany | [Download 📥](./configs/server_92_DE.ovpn) | 3.7 |
 | vpn240486699 | 106.168.61.173 | 19 | 9.49Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) | 3.7 |
 | vpn618937415 | 126.224.148.80 | 7 | 34.47Mbps | Japan | [Download 📥](./configs/server_94_JP.ovpn) | 3.7 |
 | vpn204149786 | 125.9.49.202 | 24 | 11.83Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) | 3.7 |
-| vpn233062973 | 180.199.75.244 | 8 | 3.19Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) | 3.7 |
-| vpn144065078 | 61.89.213.250 | 15 | 5.99Mbps | Japan | [Download 📥](./configs/server_97_JP.ovpn) | 3.6 |
+| vpn144065078 | 61.89.213.250 | 15 | 5.99Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) | 3.6 |
+| vpn799615091 | 221.154.71.24 | 28 | 9.54Mbps | Korea Republic of | [Download 📥](./configs/server_97_KR.ovpn) | 3.6 |
