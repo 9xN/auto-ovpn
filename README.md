@@ -4,7 +4,7 @@ This is an auto-generated list of Open VPN config files.
 
 ## Last Updated
 
-This list was last updated on: Mon, 08 Jan 2024 18:30:46 GMT.
+This list was last updated on: Mon, 08 Jan 2024 18:41:57 GMT.
 
 ## Available Servers
 
