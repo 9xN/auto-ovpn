@@ -6,6 +6,8 @@ This is an auto-generated list of Open VPN config files.
 
 This list was last updated on: Sun, 04 Feb 2024 21:31:18 GMT.
 
+![Alt](https://repobeats.axiom.co/api/embed/186b98318ef1479477931607c1ad7d823f12451f.svg "Repobeats analytics image")
+
 ## Available Servers
 
 Below is the list of available VPN servers:
