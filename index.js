@@ -11,7 +11,7 @@ const generateReadme = (vpnList) => {
     content += `This is an auto-generated list of Open VPN config files.\n\n`;
     
     content += `## Last Updated\n\n`;
-    content += `This list was last updated on: ${getDate(Date.now())}.\n\n`;
+    content += `This list was last updated on: ${getDate(Date.now())}.\n![Alt](https://repobeats.axiom.co/api/embed/186b98318ef1479477931607c1ad7d823f12451f.svg "Repobeats analytics image")\n\n`;
     
     content += `## Available Servers\n\n`;
     content += `Below is the list of available VPN servers:\n\n`;
