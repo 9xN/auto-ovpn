@@ -4,7 +4,7 @@ This is an auto-generated list of Open VPN config files.
 
 ## Last Updated
 
-This list was last updated on: Wed, 06 Mar 2024 21:48:58 GMT.
+This list was last updated on: Wed, 06 Mar 2024 22:00:29 GMT.
 ![Alt](https://repobeats.axiom.co/api/embed/186b98318ef1479477931607c1ad7d823f12451f.svg "Repobeats analytics image")
 
 ## Available Servers
@@ -106,9 +106,9 @@ Below is the list of available VPN servers:
 | vpn815901461 | 180.211.55.18 | - | 7.87Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) | 4.1 |
 | vpn245138998 | 86.31.243.200 | - | 5.18Mbps | United Kingdom | [Download 📥](./configs/server_90_GB.ovpn) | 4.0 |
 | vpn704294482 | 146.70.205.6 | 1 | 97.92Mbps | Romania | [Download 📥](./configs/server_91_RO.ovpn) | 3.9 |
-| v-dot-pn-dus1 | 62.133.35.246 | 3 | 20.94Mbps | Germany | [Download 📥](./configs/server_92_DE.ovpn) | 3.9 |
-| hal-jp | 124.213.112.144 | 9 | 22.06Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) | 3.8 |
-| vpn426359664 | 126.2.240.187 | 6 | 80.32Mbps | Japan | [Download 📥](./configs/server_94_JP.ovpn) | 3.8 |
-| vpn162893164 | 211.2.91.28 | 9 | 17.11Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) | 3.8 |
-| v-dot-pn-ams1 | 78.142.193.246 | 1 | 22.26Mbps | Germany | [Download 📥](./configs/server_96_DE.ovpn) | 3.7 |
+| vpn794889600 | 185.73.203.176 | 8 | 12.61Mbps | Turkey | [Download 📥](./configs/server_92_TR.ovpn) | 3.9 |
+| v-dot-pn-dus1 | 62.133.35.246 | 3 | 20.94Mbps | Germany | [Download 📥](./configs/server_93_DE.ovpn) | 3.9 |
+| hal-jp | 124.213.112.144 | 9 | 22.06Mbps | Japan | [Download 📥](./configs/server_94_JP.ovpn) | 3.8 |
+| vpn426359664 | 126.2.240.187 | 6 | 80.32Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) | 3.8 |
+| vpn162893164 | 211.2.91.28 | 9 | 17.11Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) | 3.8 |
 | v-dot-pn-tll1 | 91.193.75.5 | 28 | 20.64Mbps | Germany | [Download 📥](./configs/server_97_DE.ovpn) | 3.7 |
