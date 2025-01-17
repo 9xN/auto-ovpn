@@ -333,9 +333,9 @@
                 "countrylong": "Japan",
                 "countryshort": "JP",
                 "numvpnsessions": "167",
-                "uptime": "10480916131",
-                "totalusers": "8014583",
-                "totaltraffic": "383298159152766",
+                "uptime": "10480860325",
+                "totalusers": "8014576",
+                "totaltraffic": "383298062209438",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1681,5 +1681,5 @@
             "gb": "United Kingdom"
         }
     },
-    1737146368313
+    1737147050624
 ]
