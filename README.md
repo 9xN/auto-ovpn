@@ -4,7 +4,7 @@ This is an auto-generated list of Open VPN config files.
 
 ## Last Updated
 
-This list was last updated on: Wed, 29 Jan 2025 05:49:07 GMT.
+This list was last updated on: Wed, 29 Jan 2025 06:00:30 GMT.
 ![Alt](https://repobeats.axiom.co/api/embed/186b98318ef1479477931607c1ad7d823f12451f.svg "Repobeats analytics image")
 
 ## Available Servers
@@ -60,7 +60,7 @@ Below is the list of available VPN servers:
 | vpn889320825 | 86.102.41.19 | 120 | 4.72Mbps | Russian Federation | [Download 📥](./configs/server_43_RU.ovpn) | 6.9 |
 | vpn107347227 | 123.108.250.106 | 44 | 3.53Mbps | Cambodia | [Download 📥](./configs/server_44_KH.ovpn) | 6.8 |
 | vpn615210392 | 96.54.176.199 | 16 | 74.44Mbps | Canada | [Download 📥](./configs/server_45_CA.ovpn) | 6.8 |
-| vpn326638970 | 119.105.81.230 | 13 | 49.40Mbps | Japan | [Download 📥](./configs/server_46_JP.ovpn) | 6.8 |
+| vpn326638970 | 119.105.81.230 | 13 | 49.40Mbps | Japan | [Download 📥](./configs/server_46_JP.ovpn) | 6.7 |
 | vpn328884742 | 118.47.132.172 | 24 | 33.45Mbps | Korea Republic of | [Download 📥](./configs/server_47_KR.ovpn) | 6.7 |
 | vpn292432564 | 189.75.150.48 | 10 | 28.67Mbps | Brazil | [Download 📥](./configs/server_48_BR.ovpn) | 6.6 |
 | vpn743793210 | 42.125.162.163 | 8 | 29.38Mbps | Japan | [Download 📥](./configs/server_49_JP.ovpn) | 6.6 |
