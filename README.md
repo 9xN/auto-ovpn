@@ -4,7 +4,7 @@ This is an auto-generated list of Open VPN config files.
 
 ## Last Updated
 
-This list was last updated on: Sat, 01 Feb 2025 18:44:24 GMT.
+This list was last updated on: Sat, 01 Feb 2025 18:55:46 GMT.
 ![Alt](https://repobeats.axiom.co/api/embed/186b98318ef1479477931607c1ad7d823f12451f.svg "Repobeats analytics image")
 
 ## Available Servers
@@ -27,10 +27,10 @@ Below is the list of available VPN servers:
 | vpn423356463 | 184.65.140.154 | 18 | 66.93Mbps | Canada | [Download 📥](./configs/server_10_CA.ovpn) | 9.9 |
 | vpn366881259 | 211.225.41.168 | 29 | 8.96Mbps | Korea Republic of | [Download 📥](./configs/server_11_KR.ovpn) | 9.9 |
 | vpn850882729 | 218.37.44.201 | 36 | 7.86Mbps | Korea Republic of | [Download 📥](./configs/server_12_KR.ovpn) | 9.1 |
-| vpn491872900 | 77.37.165.53 | 17 | 1.00Mbps | Russian Federation | [Download 📥](./configs/server_13_RU.ovpn) | 9.0 |
-| vpn652841138 | 165.100.189.64 | 5 | 1.58Mbps | Japan | [Download 📥](./configs/server_14_JP.ovpn) | 9.0 |
-| vpn989532162 | 112.171.71.241 | 30 | 5.91Mbps | Korea Republic of | [Download 📥](./configs/server_15_KR.ovpn) | 8.9 |
-| opengw | 217.138.212.58 | 5 | 0.00Mbps | Romania | [Download 📥](./configs/server_16_RO.ovpn) | 8.9 |
+| opengw | 217.138.212.58 | 5 | 0.00Mbps | Romania | [Download 📥](./configs/server_13_RO.ovpn) | 9.0 |
+| vpn491872900 | 77.37.165.53 | 17 | 1.00Mbps | Russian Federation | [Download 📥](./configs/server_14_RU.ovpn) | 9.0 |
+| vpn652841138 | 165.100.189.64 | 5 | 1.58Mbps | Japan | [Download 📥](./configs/server_15_JP.ovpn) | 9.0 |
+| vpn989532162 | 112.171.71.241 | 30 | 5.91Mbps | Korea Republic of | [Download 📥](./configs/server_16_KR.ovpn) | 8.9 |
 | 2i6 | 1.66.33.41 | 28 | 0.10Mbps | Japan | [Download 📥](./configs/server_17_JP.ovpn) | 7.9 |
 | vpn432436906 | 116.82.176.218 | 2 | 6.17Mbps | Japan | [Download 📥](./configs/server_18_JP.ovpn) | 7.7 |
 | vpn466456259 | 60.107.135.122 | 7 | 7.61Mbps | Japan | [Download 📥](./configs/server_19_JP.ovpn) | 7.6 |
