@@ -4,7 +4,7 @@ This is an auto-generated list of Open VPN config files.
 
 ## Last Updated
 
-This list was last updated on: Fri, 07 Mar 2025 18:44:28 GMT.
+This list was last updated on: Fri, 07 Mar 2025 18:55:37 GMT.
 ![Alt](https://repobeats.axiom.co/api/embed/186b98318ef1479477931607c1ad7d823f12451f.svg "Repobeats analytics image")
 
 ## Available Servers
@@ -87,8 +87,8 @@ Below is the list of available VPN servers:
 | vpn424215617 | 14.247.171.149 | 31 | 2.98Mbps | Viet Nam | [Download 📥](./configs/server_70_VN.ovpn) | 5.8 |
 | vpn858674717 | 121.143.118.222 | 28 | 29.30Mbps | Korea Republic of | [Download 📥](./configs/server_71_KR.ovpn) | 5.8 |
 | vpn895739941 | 95.29.133.212 | 25 | 3.77Mbps | Russian Federation | [Download 📥](./configs/server_72_RU.ovpn) | 5.7 |
-| vpn123971737 | 61.98.107.141 | 43 | 5.28Mbps | Korea Republic of | [Download 📥](./configs/server_73_KR.ovpn) | 5.7 |
-| vpn149163144 | 220.127.47.38 | 28 | 34.25Mbps | Korea Republic of | [Download 📥](./configs/server_74_KR.ovpn) | 5.7 |
+| vpn149163144 | 220.127.47.38 | 28 | 34.25Mbps | Korea Republic of | [Download 📥](./configs/server_73_KR.ovpn) | 5.7 |
+| vpn123971737 | 61.98.107.141 | 43 | 5.28Mbps | Korea Republic of | [Download 📥](./configs/server_74_KR.ovpn) | 5.7 |
 | vpn619723404 | 221.155.194.168 | 32 | 7.96Mbps | Korea Republic of | [Download 📥](./configs/server_75_KR.ovpn) | 5.6 |
 | vpn806808801 | 121.161.239.62 | 33 | 29.89Mbps | Korea Republic of | [Download 📥](./configs/server_76_KR.ovpn) | 5.6 |
 | vpn694606646 | 220.70.57.212 | 28 | 9.62Mbps | Korea Republic of | [Download 📥](./configs/server_77_KR.ovpn) | 5.5 |
