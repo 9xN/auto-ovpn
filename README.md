@@ -4,7 +4,7 @@ This is an auto-generated list of Open VPN config files.
 
 ## Last Updated
 
-This list was last updated on: Sun, 21 Sep 2025 15:29:20 GMT.
+This list was last updated on: Sun, 21 Sep 2025 15:40:46 GMT.
 ![Alt](https://repobeats.axiom.co/api/embed/186b98318ef1479477931607c1ad7d823f12451f.svg "Repobeats analytics image")
 
 ## Available Servers
@@ -96,7 +96,7 @@ Below is the list of available VPN servers:
 | vpn838319260 | 46.188.124.68 | 16 | 2.10Mbps | Russian Federation | [Download 📥](./configs/server_79_RU.ovpn) | 5.2 |
 | vpn859116338 | 118.218.227.187 | 36 | 81.62Mbps | Korea Republic of | [Download 📥](./configs/server_80_KR.ovpn) | 5.2 |
 | vpn152067795 | 180.231.86.46 | 38 | 9.59Mbps | Korea Republic of | [Download 📥](./configs/server_81_KR.ovpn) | 5.1 |
-| vpn699979113 | 211.210.28.238 | 41 | 6.75Mbps | Korea Republic of | [Download 📥](./configs/server_82_KR.ovpn) | 5.0 |
+| vpn699979113 | 211.210.28.238 | 41 | 6.75Mbps | Korea Republic of | [Download 📥](./configs/server_82_KR.ovpn) | 4.9 |
 | vpn698252028 | 36.52.193.149 | 5 | 0.99Mbps | Japan | [Download 📥](./configs/server_83_JP.ovpn) | 4.9 |
 | vpn373844097 | 5.136.87.96 | 70 | 23.10Mbps | Russian Federation | [Download 📥](./configs/server_84_RU.ovpn) | 4.8 |
 | vpn862384477 | 106.246.212.73 | 43 | 2.74Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) | 4.7 |
